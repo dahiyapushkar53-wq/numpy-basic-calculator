@@ -3,7 +3,8 @@
 ## 📷 Application Preview (SC)
 
 <p align="center">
-  <img src="screenshots/app.png" alt="App Screenshot" width="500"/>
+  <img width="1227" height="764" alt="image" src="https://github.com/user-attachments/assets/7155e21c-7820-4dc3-8a6c-b57ff75bbdd5" />
+
 </p>
 
 > 📌 **SC (Screenshot):** Place your application screenshot inside a folder named `screenshots` and name it `app.png`
